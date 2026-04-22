@@ -1,0 +1,3985 @@
+[
+  {
+    "id": 1,
+    "name": "ABRAZADERA DE ACELERADOR MOTONETAS/AT110",
+    "price": 30.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "ACEITE 2T TABAMOTO",
+    "price": 90.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "ACEITE 4T AKRON",
+    "price": 125.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "name": "ACEITE 4T BARDAHL",
+    "price": 115.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "ACEITE 4T CASTROL",
+    "price": 185.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "name": "ACEITE 4T ELYOM",
+    "price": 77.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "name": "ACEITE 4T GHIRA",
+    "price": 84.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "name": "ACEITE 4T REPSOL",
+    "price": 145.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "name": "ACEITE TRANSMISION MAX ONE 1L",
+    "price": 97.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "name": "ACIDO PARA BATERIA 1L",
+    "price": 105.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 11,
+    "name": "AFLOJA TODO 325ml Vento",
+    "price": 85.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 12,
+    "name": "AGUA PARA BATERIA 500ml BARDAHL",
+    "price": 149.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 13,
+    "name": "AHORCADOR DE ACELERADOR UNIVERSAL",
+    "price": 57.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 14,
+    "name": "AHORCADOR DE CLOUCH UNIVERSAL",
+    "price": 65.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "name": "ALARMA CON ENCENDIDO A DISTANCIA Y LARGO ALCANCE MASTER RACING",
+    "price": 25.0,
+    "cat": "Seguridad",
+    "stock": 10
+  },
+  {
+    "id": 16,
+    "name": "ALARMA PARA MOTO CODIGO EXB159210",
+    "price": 6.0,
+    "cat": "Seguridad",
+    "stock": 10
+  },
+  {
+    "id": 17,
+    "name": "AMORTIGUADOR TRASERO AT110 CON CUBIERTA CROMO",
+    "price": 10.0,
+    "cat": "Suspension",
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "name": "AMORTIGUADOR TRASERO FT150",
+    "price": 450.0,
+    "cat": "Suspension",
+    "stock": 10
+  },
+  {
+    "id": 19,
+    "name": "ANILLOS PARA PISTON 125Z",
+    "price": 300.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 20,
+    "name": "ANILLOS PARA PISTON 170Z",
+    "price": 700.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 21,
+    "name": "ANILLOS PARA PISTON AT110 WSTANDAR",
+    "price": 650.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 22,
+    "name": "ANILLOS PARA PISTON AT110/ MARCA PAG",
+    "price": 68.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 23,
+    "name": "ANILLOS PARA PISTON DS125/CS125 PAG",
+    "price": 70.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 24,
+    "name": "ANILLOS PARA PISTON DS150",
+    "price": 80.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 25,
+    "name": "ANILLOS PARA PISTON EX200/ RT200 PAG",
+    "price": 120.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 26,
+    "name": "ANILLOS PARA PISTON FT125 MARCA ALESSIA",
+    "price": 117.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 27,
+    "name": "ANILLOS PARA PISTON FT125 MARCA KAIZEN",
+    "price": 68.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 28,
+    "name": "ANILLOS PARA PISTON FT125 MARCA SAYTO",
+    "price": 98.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 29,
+    "name": "ANILLOS PARA PISTON FT125 WSTANDAR",
+    "price": 80.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 30,
+    "name": "ANILLOS PARA PISTON FT150 08 PERNO GRUESO ALESSIA",
+    "price": 105.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 31,
+    "name": "ANILLOS PARA PISTON FT150 08 PERNO GRUESO SAYTO",
+    "price": 65.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 32,
+    "name": "ANILLOS PARA PISTON FT150 09 PERNO DELGADO KAIZEN",
+    "price": 90.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 33,
+    "name": "ANILLOS PARA PISTON FT150 09 PERNO DELGADO KIMTEC",
+    "price": 100.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 34,
+    "name": "ANILLOS PARA PISTON STRADA 70/ 90",
+    "price": 68.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 35,
+    "name": "ANTICONGELANTE FLERSA",
+    "price": 105.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 36,
+    "name": "APAGADOR AUXILIAR DE MANUBRIO",
+    "price": 65.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 37,
+    "name": "APAGADOR COLA DE RATA DOS PASES",
+    "price": 59.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 38,
+    "name": "ARBOL DE LEVAS AT110",
+    "price": 60.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 39,
+    "name": "ARBOL DE LEVAS FT125/FT150/RT180/200 SAYTO/MOTOKING",
+    "price": 42.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 40,
+    "name": "ARBOL DE LEVAS MOTONETAS",
+    "price": 35.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 41,
+    "name": "ARNES COMPL. FT 150",
+    "price": 125.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 42,
+    "name": "ARNES COMPL. FT125",
+    "price": 210.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 43,
+    "name": "ARNES COMPL. MOTONETA",
+    "price": 165.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 44,
+    "name": "ARNES CONECTOR DE 3 CABLES MOTONETA",
+    "price": 330.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 45,
+    "name": "ARNES DE CDI 4 PUNTAS MOTONETAS",
+    "price": 350.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 46,
+    "name": "ARNES DE CDI 6 PUNTAS MOTO DE TRABAJO",
+    "price": 340.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 47,
+    "name": "BALANCIN DE VALVULA DE AT110/STRADA 70/90",
+    "price": 15.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 48,
+    "name": "BALANCIN INFERIOR FT125/ FT150/ RT180 MOTOKING/SAYTO",
+    "price": 30.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 49,
+    "name": "BALANCIN INFERIOR FT125/FT150/RT180 TABAMTO",
+    "price": 30.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 50,
+    "name": "BALANCIN SUPERIOR FT125/FT150/FT180/RT180 ELYOM",
+    "price": 85.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 51,
+    "name": "BALANCIN SUPERIOR FT125/FT150/FT180/RT180 PACK",
+    "price": 120.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 52,
+    "name": "BALANCIN SUPERIOR FT125/FT150/FT180/RT180 SAYTO",
+    "price": 105.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 53,
+    "name": "BALANCINES SUPERIOR  CON SOPORTE MOTONETAS",
+    "price": 110.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 54,
+    "name": "BALATA DE FRENO DEL. BUONO AT110/MOTONETAS/DM150/125Z/250Z",
+    "price": 155.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 55,
+    "name": "BALATA DE FRENO DEL. FT150/YBR125/150Z/250Z ELYOM/KIMTEC",
+    "price": 140.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 56,
+    "name": "BALATA DE FRENO DEL. ITALIKA FT150",
+    "price": 152.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 57,
+    "name": "BALATA DE FRENO DELANTERO ITALIKA AT110/MOTONETAS/DM150",
+    "price": 50.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 58,
+    "name": "BALATA DE TAMBOR AT110/STRADA70/90/CG125/DS125 ELYOM",
+    "price": 48.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 59,
+    "name": "BALATA DE TAMBOR FT125/DS150 PASTA VERDE MOTOKING",
+    "price": 55.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 60,
+    "name": "BALATA DE TAMBOR FT125/GN125/DS150/DS125/125Z TABAMOTO/ELYOM",
+    "price": 55.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 61,
+    "name": "BALATA DE TAMBOR FT150 BOST/EG",
+    "price": 58.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 62,
+    "name": "BALATA TRASERA MARCA VENTO BARRACUDA GRANDE",
+    "price": 88.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 63,
+    "name": "BALATAS DELANTERA PUSAR 135LS/YBR125",
+    "price": 65.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 64,
+    "name": "BALATAS TRASERA DISCO 250Z/170Z/RT200/RT200GP",
+    "price": 65.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 65,
+    "name": "BALEROS 6001",
+    "price": 90.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 66,
+    "name": "BALEROS 6002",
+    "price": 60.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 67,
+    "name": "BALEROS 6003",
+    "price": 98.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 68,
+    "name": "BALEROS 6004 PORTA SPROCKET FT125/FT150",
+    "price": 22.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 69,
+    "name": "BALEROS 6201 RIN  DELANTERO DS125/CS125",
+    "price": 25.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 70,
+    "name": "BALEROS 6202 RIN TRASERO FT125/125Z/150SZ/150Z/ PARA TRANSMISION DE MOTONETAS",
+    "price": 32.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 71,
+    "name": "BALEROS 6202 RIN TRASERO FT125/125Z/150SZ/150Z/ PARA TRANSMISION DE MOTONETAS/PAG",
+    "price": 30.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 72,
+    "name": "BALEROS 6203 AT110/AR110/DM150/DT90/ RIN TRASERO DS125/CS125/ PORTA SPROCKET AT110",
+    "price": 25.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 73,
+    "name": "BALEROS 6204 ZZ CIGUELÑAL DS150/ZUZUKI",
+    "price": 28.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 74,
+    "name": "BALEROS 6301 REFORZADO KAIZEN RIN DELANTERO FT125/FT150/FT180/FT200/FT250/RT180/RT20/DS125/DS150/150GT/AT110",
+    "price": 40.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 75,
+    "name": "BALEROS 6301 REFORZADO PROMOTO/TABAMOTO RIN DELANTERO FT125/FT150",
+    "price": 32.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 76,
+    "name": "BALEROS 6302 RIN TRASERO FORZA 150",
+    "price": 42.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 77,
+    "name": "BALEROS 6303 RIN TRASERO DS150",
+    "price": 40.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 78,
+    "name": "BALEROS DE AGUJA FT125/FT150/DM125/DM200/DT150/DT150 SPORT/DT200 SPORT",
+    "price": 33.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 79,
+    "name": "BALEROS DE MOTO (JUEGO COMPLETO) FT125/FT150/KURAZAI/DELIVERY",
+    "price": 33.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 80,
+    "name": "BANDA DE TRANSMISION DS125/CITY125/D125/DC125/XS125",
+    "price": 35.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 81,
+    "name": "BANDA DE TRANSMISION DS150/WS150/ATV150",
+    "price": 30.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 82,
+    "name": "BARRA POSA PIE AT110 MARCA RODA",
+    "price": 160.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 83,
+    "name": "BARRA POSA PIE COMPLETA FT125/FT150",
+    "price": 150.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 84,
+    "name": "BASE MANUBRIO SUPERIOR FT150 08/09",
+    "price": 122.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 85,
+    "name": "BASE PARA MANUBRIO SUPERIOR FT125",
+    "price": 192.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 86,
+    "name": "BATERIA (12N7-3B) FT150/170Z/DT150/AT150/RT180/FT180 FALCON",
+    "price": 220.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 87,
+    "name": "BATERIA (IYTX7A-BS) MOTONETAS DE GEL",
+    "price": 240.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 88,
+    "name": "BATERIA ICB6L-B  FT125/125Z/DT125/MARCA ITALIKA",
+    "price": 160.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 89,
+    "name": "BENDIX COMPL. AT110",
+    "price": 680.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 90,
+    "name": "BENDIX COMPL. FT125/FT150/RT180",
+    "price": 580.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 91,
+    "name": "BENDIX COMPL. MOTONETAS  SAYTO",
+    "price": 500.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 92,
+    "name": "BIRLOS DE ENGRANE TRAS. FT150",
+    "price": 110.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 93,
+    "name": "BIRLOS DE ESCAPE 1/4 35MM STRADA70/90 AT110/DS125/DS150",
+    "price": 260.0,
+    "cat": "Tornilleria",
+    "stock": 10
+  },
+  {
+    "id": 94,
+    "name": "BIRLOS DE ESCAPE 5/16 CORTO FT125/FT150/RT200/EX200",
+    "price": 340.0,
+    "cat": "Tornilleria",
+    "stock": 10
+  },
+  {
+    "id": 95,
+    "name": "BIRLOS DE SPROCKET AT110/STRADA 70/90",
+    "price": 35.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 96,
+    "name": "BIRLOS DE SPROCKET FT125/FT150/CG150/CG125 SAYTO/TABAMOTO",
+    "price": 40.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 97,
+    "name": "BOBINA DE ENCENDIDO MOTO DE TRABAJO CON CAPUCHON",
+    "price": 45.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 98,
+    "name": "BOBINA DE ENCENDIDO MOTONETAS",
+    "price": 30.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 99,
+    "name": "BOBINA O ESTATOR DE ARRANQUE AT110",
+    "price": 29.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 100,
+    "name": "BOBINA O ESTATOR DE ARRANQUE MOTO DE TRABAJO SAYTO",
+    "price": 80.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 101,
+    "name": "BOBINA O ESTATOR DE ARRANQUE MOTONETAS",
+    "price": 75.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 102,
+    "name": "BOMBA DE ACEITE FT125/CG125",
+    "price": 259.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 103,
+    "name": "BOMBA DE ACEITE FT150/150Z",
+    "price": 280.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 104,
+    "name": "BOMBA DE ACEITE MOTONETAS",
+    "price": 260.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 105,
+    "name": "BOTON DE ARRANQUE MOTONETAS",
+    "price": 105.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 106,
+    "name": "BOTON DE CLAXON MOTONETAS",
+    "price": 95.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 107,
+    "name": "BOTON DE LUCES DE DIRECCIONALES MOTONETAS",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 108,
+    "name": "BOTON DE LUCES MOTONETA",
+    "price": 22.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 109,
+    "name": "BOTON DE LUZ ALTA Y BAJA MOTONETAS",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 110,
+    "name": "BOTON DE STOP MOTONETAS",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 111,
+    "name": "BUJE AMORTIGUADOR SUPERIOR E INFERIOR PARA TODOS LOS MODELOS",
+    "price": 28.0,
+    "cat": "Suspension",
+    "stock": 10
+  },
+  {
+    "id": 112,
+    "name": "BUJE DE HORQUILLA OSCILANTE AT110",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 113,
+    "name": "BUJE DE HORQUILLA OSCILANTE FT125",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 114,
+    "name": "BUJE DE HORQUILLA OSCILANTE FT150",
+    "price": 60.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 115,
+    "name": "BUJE DE MOTOR PARA MOTONETAS",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 116,
+    "name": "BUJE DE RIN FT150 ALTA CALIDAD RHINO",
+    "price": 47.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 117,
+    "name": "BUJE DE RIN FT150 RODA",
+    "price": 50.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 118,
+    "name": "BUJE EJE DE PORTA ENGRANE TRASERO FT125/FT150",
+    "price": 85.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 119,
+    "name": "BUJE ESPACIADOR INTERNO DE EJE TRASERO FT125",
+    "price": 80.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 120,
+    "name": "BUJIA C7HSA NGK MOTONETAS/AT110",
+    "price": 65.0,
+    "cat": "Encendido",
+    "stock": 10
+  },
+  {
+    "id": 121,
+    "name": "BUJIA C9E NGK",
+    "price": 40.0,
+    "cat": "Encendido",
+    "stock": 10
+  },
+  {
+    "id": 122,
+    "name": "BUJIA D8EA NGK  ITALIKA DE TRABAJO",
+    "price": 42.0,
+    "cat": "Encendido",
+    "stock": 10
+  },
+  {
+    "id": 123,
+    "name": "CABEZA DE CILINDRO COMPLETO DS150/WS150",
+    "price": 43.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 124,
+    "name": "CABLE ACELERADOR AT110/RT110 ITALIKA",
+    "price": 49.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 125,
+    "name": "CABLE ACELERADOR AT110/RT110/ SAYTO",
+    "price": 45.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 126,
+    "name": "CABLE ACELERADOR FT125/FT150 ELYOM",
+    "price": 750.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 127,
+    "name": "CABLE ACELERADOR FT180/RT180/FT200/FT50",
+    "price": 60.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 128,
+    "name": "CABLE ACELERADOR MOTONETAS",
+    "price": 45.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 129,
+    "name": "CABLE DE CLUOCHT 150Z",
+    "price": 38.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 130,
+    "name": "CABLE DE CLUOCHT FT125/FT150 KIMTEC/ELYOM",
+    "price": 48.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 131,
+    "name": "CABLE DE CLUOCHT FT180/RT180/FT200/FT250",
+    "price": 65.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 132,
+    "name": "CABLE DE FRENO DELANTERO D125 ITALIKA",
+    "price": 64.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 133,
+    "name": "CABLE DE FRENO DELANTERO FT125",
+    "price": 48.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 134,
+    "name": "CABLE DE FRENO DELANTERO MOTONETAS ITALIKA",
+    "price": 52.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 135,
+    "name": "CABLE DE FRENO DELANTERO MOTONETAS SAYTO",
+    "price": 86.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 136,
+    "name": "CABLE DE FRENO TRASERO CS125/DS125/CITY125",
+    "price": 53.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 137,
+    "name": "CABLE DE FRENO TRASERO DS150/ TANOSHI",
+    "price": 70.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 138,
+    "name": "CABLE DE FRENO TRASERO RC150",
+    "price": 63.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 139,
+    "name": "CABLE DE VELECIMETRO AT110",
+    "price": 72.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 140,
+    "name": "CABLE DE VELECIMETRO CITY125/SL125",
+    "price": 65.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 141,
+    "name": "CABLE DE VELECIMETRO DS125/DS150/TANOSHI 150",
+    "price": 70.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 142,
+    "name": "CABLE DE VELECIMETRO FT125 RODA",
+    "price": 47.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 143,
+    "name": "CABLE DE VELECIMETRO FT150 SAYTO",
+    "price": 60.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 144,
+    "name": "CABLE ELECTRICO ROJO/NEGRO POR METRO",
+    "price": 60.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 145,
+    "name": "CABLE SIN FUNDA 1.65 MTS",
+    "price": 45.0,
+    "cat": "Cables",
+    "stock": 10
+  },
+  {
+    "id": 146,
+    "name": "CABLE VELOCIMETRO FT125TS MASUDA",
+    "price": 53.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 147,
+    "name": "CADENA  428H-126L SUPER PARTS REFORZADA",
+    "price": 8.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 148,
+    "name": "CADENA  428HX126L REFOZADA",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 149,
+    "name": "CADENA  428X116L NORMAL",
+    "price": 48.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 150,
+    "name": "CADENA  428X126L NORMAL",
+    "price": 148.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 151,
+    "name": "CADENA BOMBA DE ACEITE FT150/250Z",
+    "price": 148.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 152,
+    "name": "CADENA BOMBA DE ACEITE MOTONETAS",
+    "price": 110.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 153,
+    "name": "CADENA DE TIEMPO AT110",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 154,
+    "name": "CADENA DE TIEMPO AT110RT/ ST90/C-90/CRYTON 25H84L",
+    "price": 51.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 155,
+    "name": "CADENA DE TIEMPO FT110/VENTO110",
+    "price": 60.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 156,
+    "name": "CADENA DE TIEMPO MOTONETAS FDF",
+    "price": 52.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 157,
+    "name": "CADENA DE TIEMPO MOTONETAS MARCA WSTANDAR",
+    "price": 55.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 158,
+    "name": "CADENA DE TIEMPO STRADA 70 25HX82",
+    "price": 52.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 159,
+    "name": "CADENA DE TIEMPO STRADA 90 25HX84",
+    "price": 80.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 160,
+    "name": "CALAVERA  AT110",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 161,
+    "name": "CALAVERA FT125/150TS TIPO CORAZON",
+    "price": 52.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 162,
+    "name": "CALAVERA FT150",
+    "price": 42.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 163,
+    "name": "CAMARA 130/60/13 YAMAKUMO/GHIRA",
+    "price": 120.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 164,
+    "name": "CAMARA 2.75-3.00-18 PRADERA/YAMAKUMO/MASUDA",
+    "price": 135.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 165,
+    "name": "CAMARA 2.75/3.00-17 YAMAKUMO/PRADERA",
+    "price": 135.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 166,
+    "name": "CAMARA 3.50-10 GHIRA/PRADERA",
+    "price": 85.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 167,
+    "name": "CAMARA 3.50-18 GHIRA/CITY ROAD/YAMAKUMO",
+    "price": 65.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 168,
+    "name": "CAMPANA EMBRAGUE (COMPLETA) FT125/FT150/125Z/FT150TS",
+    "price": 65.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 169,
+    "name": "CAMPANA EMBRAGUE (SOLA) FT125/FT150/125Z/FT150TS",
+    "price": 70.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 170,
+    "name": "CANDADO DE CADENA REFORZADO CHOHO",
+    "price": 80.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 171,
+    "name": "CAPUCHON DE BUJIA 130",
+    "price": 480.0,
+    "cat": "Encendido",
+    "stock": 10
+  },
+  {
+    "id": 172,
+    "name": "CAPUCHON DE BUJIA 90",
+    "price": 215.0,
+    "cat": "Encendido",
+    "stock": 10
+  },
+  {
+    "id": 173,
+    "name": "CARBU CLEAN RODA/INJETECH",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 174,
+    "name": "CARBURADOR  FT125",
+    "price": 28.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 175,
+    "name": "CARBURADOR AT110",
+    "price": 25.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 176,
+    "name": "CARBURADOR FT150 MARCA SAYTO",
+    "price": 70.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 177,
+    "name": "CARBURADOR MOTONETAS",
+    "price": 305.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 178,
+    "name": "CDI AT110/SPORT XT110 RODA/MOTOKING",
+    "price": 335.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 179,
+    "name": "CDI ELECTRONICO EX200/RT200/RT180/FT180 SAYTO/PROMOTO",
+    "price": 370.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 180,
+    "name": "CDI ELECTRONICO MOTONETA WSTANDAR",
+    "price": 610.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 181,
+    "name": "CDI FT125/FT180/FT150/RT180 MOTOKING/SAYTO",
+    "price": 75.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 182,
+    "name": "CDI MOTONETAS",
+    "price": 115.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 183,
+    "name": "CENTRIFUGO COMPLETO MOTONETAS",
+    "price": 140.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 184,
+    "name": "CILINDRO COMPLETO CS125/DS125/CITY 125 ELYOM",
+    "price": 73.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 185,
+    "name": "CILINDRO COMPLETO DS150 KIMTEC",
+    "price": 60.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 186,
+    "name": "CILINDRO COMPLETO FT125/CG125 KIMTEC",
+    "price": 290.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 187,
+    "name": "CILINDRO COMPLETO FT150 2008 PERNO GRUESO",
+    "price": 430.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 188,
+    "name": "CILINDRO COMPLETO FT150 2009 PERNO DELGADO/150Z/FIERA150",
+    "price": 520.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 189,
+    "name": "CINCHOS 15CM O 20CM POR PIEZA",
+    "price": 520.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 190,
+    "name": "CINCHOS 30CM POR PIEZA",
+    "price": 550.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 191,
+    "name": "CINTA AISLANTE",
+    "price": 530.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 192,
+    "name": "CLAXON UNIVERSAL 2 TONOS COLOR NEGRO TIPO CARACOL",
+    "price": 1.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 193,
+    "name": "CLAXON UNIVERSAL 6 TONOS FASTOYS",
+    "price": 2.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 194,
+    "name": "CLAXON UNIVERSAL ELYOM/SAYTO",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 195,
+    "name": "DIMMER PARA ESTROBOS",
+    "price": 160.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 196,
+    "name": "DIRECCIONAL DEL./TRAS. INDIVUAL TRANSPARENTE/AMBAR (PAR)",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 197,
+    "name": "DIRECCIONAL LED  AMARILLO/AZUL CODIGO DJ3-MTCZXD-LAN (PAR)",
+    "price": 55.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 198,
+    "name": "DIRECCIONAL LED A2 AMARILLO/AZUL CX RACING (PAR)",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 199,
+    "name": "DIRECCIONAL LED SECUENCIAL COLOR AZUL CODIGO KICRY (PAR)",
+    "price": 100.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 200,
+    "name": "DIRECCIONAL LED SECUENCIAL COLOR ROJO/AMBAR SUMOCHEPIN (PAR)",
+    "price": 170.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 201,
+    "name": "DISCO DE EMBRAGUE LAMINA 4 PIEZA FT125/FT150",
+    "price": 170.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 202,
+    "name": "DISCO DE LAMINA STRADA 70/90 FT110",
+    "price": 170.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 203,
+    "name": "EJE DE ARRANQUE (CORTO) MOTONETAS PROMOTO",
+    "price": 170.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 204,
+    "name": "EJE DE ARRANQUE (LARGO) MOTONETAS MASUDA/SAYTO",
+    "price": 70.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 205,
+    "name": "EJE DE ARRANQUE AT110",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 206,
+    "name": "EJE DE ARRANQUE FT125/FT150",
+    "price": 130.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 207,
+    "name": "EJE DE CAMBIO AT110/KURAZAI GALAXY 2008",
+    "price": 165.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 208,
+    "name": "EJE DE CAMBIO FT150",
+    "price": 220.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 209,
+    "name": "EJE DE CAMBIOS FT125/125Z/150Z/FT180/RT180/FT200/FT250/EX200/HONDA CARGO 125",
+    "price": 205.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 210,
+    "name": "EJE DE RUEDA TRASERA AT110",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 211,
+    "name": "EJE DE RUEDA TRASERA FT125",
+    "price": 105.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 212,
+    "name": "EJE DE RUEDA TRASERA FT150",
+    "price": 105.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 213,
+    "name": "EJE DE RUEDA TRASERA FT180/RT180/FT200/FT250",
+    "price": 68.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 214,
+    "name": "EJE HORQUILLA CENTRAL AT 110",
+    "price": 58.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 215,
+    "name": "EJE HORQUILLA CENTRAL FT125/125Z",
+    "price": 55.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 216,
+    "name": "EJE HORQUILLA CENTRAL FT150 MARCA RODA",
+    "price": 79.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 217,
+    "name": "EJE RUEDA DELANTERA AT110",
+    "price": 53.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 218,
+    "name": "EJE RUEDA DELANTERA FT125/CLASICA 125",
+    "price": 58.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 219,
+    "name": "EJE RUEDA DELANTERA FT150/FIERA 150",
+    "price": 70.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 220,
+    "name": "EMBRAGUE COMPLETO FT125/FT150",
+    "price": 52.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 221,
+    "name": "EMPAQUE CABEZA DE CILINDRO AT110",
+    "price": 53.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 222,
+    "name": "EMPAQUE CABEZA DE CILINDRO DS125/CS125",
+    "price": 50.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 223,
+    "name": "EMPAQUE CABEZA DE CILINDRO DS150",
+    "price": 410.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 224,
+    "name": "EMPAQUE CABEZA DE CILINDRO ESTRADA 70/90",
+    "price": 35.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 225,
+    "name": "EMPAQUE CABEZA DE CILINDRO FT125",
+    "price": 38.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 226,
+    "name": "EMPAQUE CABEZA DE CILINDRO FT150 COMPLETA MASUDA/SAYTO",
+    "price": 38.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 227,
+    "name": "EMPAQUE CABEZA DE CILINDRO FT200/EX200  MASUDA",
+    "price": 15.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 228,
+    "name": "EMPAQUE DE CARTER/CLOUTCH",
+    "price": 37.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 229,
+    "name": "EMPAQUE DE CARTON AT110",
+    "price": 45.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 230,
+    "name": "EMPAQUE DE CARTON DE ESCAPE PARA MOTONETAS",
+    "price": 40.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 231,
+    "name": "EMPAQUE DE COBRE DE ESCAPE PARA MOTONETAS",
+    "price": 20.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 232,
+    "name": "EMPAQUE DE COBRE ESCAPE AT110",
+    "price": 7.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 233,
+    "name": "EMPAQUE DE COBRE FT125/F150",
+    "price": 6.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 234,
+    "name": "EMPAQUE MOTOR COMPLETO AT110",
+    "price": 9.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 235,
+    "name": "EMPAQUE MOTOR COMPLETO CS125/DS125/CITY125/VITALIA 125",
+    "price": 10.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 236,
+    "name": "EMPAQUE MOTOR COMPLETO DS150/DIABOLO 150/GS150/XS150/WS150",
+    "price": 10.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 237,
+    "name": "EMPAQUE MOTOR COMPLETO EX200/FT200/RT200/250Z/RT250",
+    "price": 62.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 238,
+    "name": "EMPAQUE MOTOR COMPLETO FT125/CG125/ SAYTO/SUPER PART",
+    "price": 65.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 239,
+    "name": "EMPAQUE MOTOR COMPLETO FT150/ELYOM/SUPER PART",
+    "price": 68.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 240,
+    "name": "EMPAQUE MOTOR COMPLETO FT180/RT180 SAYTO/RODA",
+    "price": 72.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 241,
+    "name": "EMPAQUE MOTOR COMPLETO STRADA 70/90 SAYTO",
+    "price": 69.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 242,
+    "name": "EMPAQUE MOTOR COMPLETO WS175/GTS175",
+    "price": 65.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 243,
+    "name": "EMPAQUE TAPA DE BOBINA O ESTATOR",
+    "price": 102.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 244,
+    "name": "ENGRANE ACTUADOR DE ARRANQUE MOTONETAS MASUDA",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 245,
+    "name": "ENGRANE CIGUEÑAL MOTONETAS",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 246,
+    "name": "ENGRANE DELANTERO 15T FT125/FT150/FT180/RT180/125Z/150Z",
+    "price": 17.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 247,
+    "name": "ENGRANE DELANTERO AT110/AT125",
+    "price": 145.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 248,
+    "name": "ENGRANE DELANTERO FT125/FT150 17T AUTOTEC",
+    "price": 55.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 249,
+    "name": "ENGRANE DELANTERO FT125/FT150 17T SAYTO",
+    "price": 40.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 250,
+    "name": "ENGRANE DELANTERO FT125/FT150/FT180/RT180 16T SAYTO",
+    "price": 39.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 251,
+    "name": "ENGRANE O ARAÑA DE VELOCIMETRO FT150",
+    "price": 40.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 252,
+    "name": "ENGRANE O ARAÑA DE VELOCIMETRO MARCA ITALIKA FT125",
+    "price": 50.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 253,
+    "name": "ENGRANE TRASERO AT110/AT125",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 254,
+    "name": "ENGRANE TRASERO FT125/125Z ELYOM/SUPER PART",
+    "price": 95.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 255,
+    "name": "ENGRANE TRASERO FT150 ELYOM",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 256,
+    "name": "ESPEJOS  (PAR) MOTONETAS SAYTO",
+    "price": 110.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 257,
+    "name": "ESPEJOS (PAR) FT125/FT150/AT110/RT180/RT110  REFORZADO SAYTO/TABAMOTO",
+    "price": 105.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 258,
+    "name": "ESPEJOS 125Z/150Z/FT125/FT150 SAYTO (PAR)",
+    "price": 110.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 259,
+    "name": "EXTENSION PARA AMORTIGUADOR COLORES",
+    "price": 115.0,
+    "cat": "Suspension",
+    "stock": 10
+  },
+  {
+    "id": 260,
+    "name": "FARO 12 LED BLANCO CON ESTROBOS AZUL/ROJO NOVAMEX  (PAR)",
+    "price": 83.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 261,
+    "name": "FARO 12 LED COLOR BLANCO CON ESTROBOS TUNELIGHT  (PAR)",
+    "price": 95.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 262,
+    "name": "FARO 16 LED BLANCO/AMBAR CON ESTROBOS TUNIX-TX  (PAR)",
+    "price": 70.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 263,
+    "name": "FARO 16 LED WORK LIGHT BLANCO FUNCIONES LUZ ROJO/BLANCO Y AZUL  (PAR)",
+    "price": 320.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 264,
+    "name": "FARO 18 LED BLANCO/AMBAR CON ESTROBOS TUNELIGHT (PAR)",
+    "price": 280.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 265,
+    "name": "FARO 24 LED  BLANCO CON ESTROBOS CONCEPT (PAR)",
+    "price": 320.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 266,
+    "name": "FARO 24 LED 3 PANEL BLANCO/AMBAR CON ESTROBOS ITALIO TURBO  (PAR)",
+    "price": 350.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 267,
+    "name": "FARO 6 LED BLANCO CON ESTROBOS INCLUYE APAGADOR OSUN (PAR)",
+    "price": 280.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 268,
+    "name": "FARO AUXILIAR 6 LED CON ESTROBOS G-LH-11-112 (PAR)",
+    "price": 280.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 269,
+    "name": "FARO CARCASA DORADA 4 COLORES FUNCION ESTROBOS",
+    "price": 310.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 270,
+    "name": "FARO COMPLETO AT110",
+    "price": 250.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 271,
+    "name": "FARO COMPLETO FT-125",
+    "price": 130.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 272,
+    "name": "FARO DE 2 CARAS 4 COLORES BCO/AZUL/ROJO/AMBAR CON FUNCION ESTROBOS 8,000 LMS",
+    "price": 160.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 273,
+    "name": "FARO DE 2 CARAS CARCASA GRIS 15,000 LUMENES  (PIEZA)",
+    "price": 245.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 274,
+    "name": "FARO DE 2 CARAS CARCASA GRIS BICOLOR AMARILLO/BLANCO 8,000 LMS  (PIEZA)",
+    "price": 240.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 275,
+    "name": "FARO DE 2 CARAS CARCASA ROJO 10,000 LUMENES  (PIEZA)",
+    "price": 400.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 276,
+    "name": "FARO DE 4 CARA CARCASA NEGRO ALTA Y BAJA 12,000 LUMENES (PIEZA)",
+    "price": 280.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 277,
+    "name": "FARO DE 4 CARAS (CARCASA DORADO) ALTA Y BAJA 14,000 LMS (PIEZA)",
+    "price": 300.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 278,
+    "name": "FARO DE 4 CARAS CARCASA COLOR ROJO 12,000 LUMENES  (PIEZA)",
+    "price": 280.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 279,
+    "name": "FARO DE 4 CARAS CARCASA NEGRO CON REGULADOR 10,000 LMS (PIEZA)",
+    "price": 280.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 280,
+    "name": "FARO REDONDO 9 LED ARILLOS DE COLOR AZUL 5 FUNCIONES (PAR)",
+    "price": 300.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 281,
+    "name": "FARO TIPO LUPA 4 COLORES FUNCION ESTROBOS",
+    "price": 290.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 282,
+    "name": "FILTRO DE AIRE CAJA COMPLETA AT110",
+    "price": 350.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 283,
+    "name": "FILTRO DE AIRE FT125/DT125",
+    "price": 240.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 284,
+    "name": "FILTRO DE AIRE PARA MOTONETA MARCA ITALIKA",
+    "price": 210.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 285,
+    "name": "FILTRO DE AIRE REDONDO MOTONETAS",
+    "price": 130.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 286,
+    "name": "FILTRO DE AIRE TRIANGULAR SCOOTER 125",
+    "price": 70.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 287,
+    "name": "FILTRO DE GASOLINA PIEDRA UNIVERSAL",
+    "price": 70.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 288,
+    "name": "FILTRO DE GASOLINA UNIVERSAL DE COLORES",
+    "price": 59.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 289,
+    "name": "FLASHER DIRECCIONAL FT125/FT150/RT180",
+    "price": 70.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 290,
+    "name": "FLASHER DIRECCIONAL MOTONETAS",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 291,
+    "name": "FOCO AUXILIAR DE HALOGENO H4 ALTA INTENSIDAD ELYOM",
+    "price": 15.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 292,
+    "name": "FOCO AUXILIAR DE HALOGENO REFLECTOR AT110",
+    "price": 30.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 293,
+    "name": "FOCO DE DIRECCIONAL TRANSPARANTE/AMBAR/AZUL/ROJO",
+    "price": 42.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 294,
+    "name": "FOCO DE PELLIZCO COLOR VERDE SAYTO (PAR)",
+    "price": 35.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 295,
+    "name": "FOCO DE PELLIZCO CON ESTROBOS AZUL/ROJO/BLANCO/VERDE (PIEZA)",
+    "price": 35.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 296,
+    "name": "FOCO DE PELLIZCO CON ESTROBOS DE DOS COLORES (PIEZA)",
+    "price": 10.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 297,
+    "name": "FOCO DE PELLIZCO CON ESTROBOS MULTICOLORES (PIEZA)",
+    "price": 32.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 298,
+    "name": "FOCO DE PELLIZCO DE COLORES SIN ESTROBOS AZUL/ROSADO/AZUL CRISTAL/AMARILLO (PIEZA)",
+    "price": 35.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 299,
+    "name": "FOCO DE STOP AZUL-ROJO/BLANCO CON ESTROBOS Y SECUENCIAL (PIEZA)",
+    "price": 40.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 300,
+    "name": "FOCO DE STOP ROJO/AZUL/BLANCOTIPO LUPA (PIEZA)",
+    "price": 40.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 301,
+    "name": "FOCO DE STOP TIPO LUPA COLOR AZUL/ROJO/BLANCO CON ESTROBOS (PIEZA)",
+    "price": 30.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 302,
+    "name": "FOCO DE STOP UNIVERSAL",
+    "price": 80.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 303,
+    "name": "FOCO DIRECCIONAL COLOR BLANCO/AZUL TIPO LUPA CON ESTROBOS",
+    "price": 40.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 304,
+    "name": "FOCO DIRECCIONAL ROJO/BLANCO/AZUL CON ESTROBOS SECUENCIAL",
+    "price": 60.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 305,
+    "name": "FOCO DIRECCIONALES /BLANCO/ROJO/NARANJA/VERDE/AZUL",
+    "price": 12.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 306,
+    "name": "FOCO FARO DE BOMBILLA",
+    "price": 60.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 307,
+    "name": "FOCO FARO HALOGENO  FT125/FT150 WINDSOR",
+    "price": 70.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 308,
+    "name": "FOCO LED FRENO DECORATIVO (PORTA PLACAS)",
+    "price": 30.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 309,
+    "name": "FOCO STOP LED DE COLORES OJO DEMON",
+    "price": 20.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 310,
+    "name": "FORRO CUBRE ASIENTO",
+    "price": 40.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 311,
+    "name": "FUSIBLES DE MUELA",
+    "price": 80.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 312,
+    "name": "FUSIBLES VIDRIO",
+    "price": 160.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 313,
+    "name": "GOMA DE POSA PIE  AT110 YOG",
+    "price": 90.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 314,
+    "name": "GOMA DE POSA PIE  FT125 ITALIKA INDIVIDUAL",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 315,
+    "name": "GOMA DE POSA PIE  FT125 SAYTO",
+    "price": 7.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 316,
+    "name": "GOMA DE POSA PIE FT150",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 317,
+    "name": "GOMA DE POSA PIE ITALIKA ATT110 INDIVIDUAL",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 318,
+    "name": "GOMAS DE IMPACTO AT110/ST70/90 MARCA ELYOM",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 319,
+    "name": "GOMAS DE IMPACTO AT110/ST70/90 MARCA ITALIKA",
+    "price": 48.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 320,
+    "name": "GOMAS DE IMPACTO DINAMO 150/SUZUKI GN125/PULSAR135",
+    "price": 35.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 321,
+    "name": "GOMAS DE IMPACTO FT125/FT150/ EX200/FT200/RT200/125Z ITALIKA",
+    "price": 40.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 322,
+    "name": "GOMAS DE IMPACTO FT125/FT150/ EX200/FT200/RT200/YBR125 CAUCHO",
+    "price": 50.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 323,
+    "name": "GOMAS DE IMPACTO FT125/FT150/ EX200/FT200/RT200/YBR125 TABAMOTO",
+    "price": 50.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 324,
+    "name": "GOMAS DE TANQUE",
+    "price": 57.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 325,
+    "name": "GOMAS LATERALES OVALADAS",
+    "price": 35.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 326,
+    "name": "GOMAS LATERALES RENDONDAS",
+    "price": 40.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 327,
+    "name": "GRASA ROSHFRANS 250gr.",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 328,
+    "name": "GUIA DE CADENA DE DISTRIBUCION DE MOTONETAS",
+    "price": 8.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 329,
+    "name": "HULE DE CARBURADOR  FT125/FT150/125Z/DT125/DT150/FT150TS",
+    "price": 7.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 330,
+    "name": "HULE DE CARBURADOR AT110",
+    "price": 50.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 331,
+    "name": "HULE DE CARBURADOR MOTONETA",
+    "price": 70.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 332,
+    "name": "KIT DE ENGRANE  250Z",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 333,
+    "name": "KIT DE ENGRANE  AT110",
+    "price": 15.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 334,
+    "name": "KIT DE ENGRANE FT125/150Z/125Z MARCA ITALIKA",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 335,
+    "name": "KIT DE ENGRANE FT150 ITALIKA",
+    "price": 600.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 336,
+    "name": "LED AUTOMOBILE (JUEGO) 7 COLOR INCLUYE CONTROL ENTRADA USB",
+    "price": 245.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 337,
+    "name": "LED DE FLECHA CON ESTROBOS TIPO POLICIA (MULTICOLOR) PIEZA",
+    "price": 300.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 338,
+    "name": "LED ENCAPSULADO",
+    "price": 300.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 339,
+    "name": "LED REDONDO ESTROBOSCOPICO CON FLASH",
+    "price": 360.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 340,
+    "name": "LEVA DE CLOUCH CON RESORTE Y PERNO FT125/FT150",
+    "price": 50.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 341,
+    "name": "LEVA DE CLOUCH FT125/FT150 SOLA",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 342,
+    "name": "LEVA DE FRENO TASERO FT125/FT150",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 343,
+    "name": "LEVA DE FRENO TRASERO AT110 COMP.",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 344,
+    "name": "LEVA DE FRENO TRASERO COMPLETO FT125/FT150",
+    "price": 32.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 345,
+    "name": "LIQUIDO DE FRENO  BARDAHL",
+    "price": 35.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 346,
+    "name": "LIQUIDO DE FRENO  MAX ONE",
+    "price": 70.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 347,
+    "name": "LLANTA 2.75-17.00 MARCA YUNDA",
+    "price": 68.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 348,
+    "name": "LLANTA 2.75-18.00 CITY RODA",
+    "price": 54.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 349,
+    "name": "LLANTA 3.00-17.00 MARCA YUNDA",
+    "price": 45.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 350,
+    "name": "LLANTA 3.00-18 MARCA DURO",
+    "price": 410.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 351,
+    "name": "LLANTA 3.00-18.00 YUNDA",
+    "price": 400.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 352,
+    "name": "LUPA LED BICOLOR CODIGO KIDQ64282 INCLUYE APAGADOR (PAR)",
+    "price": 430.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 353,
+    "name": "LUPA LED CODIGO KLHT89449 BICOLOR (PAR)",
+    "price": 600.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 354,
+    "name": "LUPA LED LIGHT BaBeFAS BICOLOR (PAR)",
+    "price": 430.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 355,
+    "name": "LUPA LED SUPERBRILLANTE 38 MIL LMS BICOLOR CODIGO RZDG61008 (PAR)",
+    "price": 300.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 356,
+    "name": "LUPA LED WORK LIGHT BLANCO (PAR)",
+    "price": 360.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 357,
+    "name": "MANDO  DER. AT110",
+    "price": 420.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 358,
+    "name": "MANDO DER. FT125//FT125 DELIVERY 8 PINK SAYTO",
+    "price": 650.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 359,
+    "name": "MANDO DER. FT125/FT125 SPORT/FT125 DELIVERY 9 PINK RODA",
+    "price": 350.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 360,
+    "name": "MANDO DER. FT150",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 361,
+    "name": "MANDO DERECHO AT110RT CON LED",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 362,
+    "name": "MANDO IZQ.  FT150",
+    "price": 125.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 363,
+    "name": "MANDO IZQ. AT110",
+    "price": 115.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 364,
+    "name": "MANDO IZQ. FT125 SPORT/DELIVERY/F150S (8 PIN)",
+    "price": 350.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 365,
+    "name": "MANDO IZQ. FT125 SPORT/DELIVERY/F150S (9 PIN) MARCA RODA",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 366,
+    "name": "MANDO IZQUIERDO AT110 RT CON LED",
+    "price": 165.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 367,
+    "name": "MANGUERA CAJA FILTRO DE AIRE DS125/DS150",
+    "price": 115.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 368,
+    "name": "MANGUERA CONECTOR DE FILTRO DE AIRE FT125/FT150",
+    "price": 130.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 369,
+    "name": "MANGUERA DE FILTRO DE AIRE AT110/AS70/90",
+    "price": 270.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 370,
+    "name": "MANGUERA DE GASOLINA 50cm",
+    "price": 143.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 371,
+    "name": "MANIJA DER. CON BOMBA FT150/FT180",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 372,
+    "name": "MANIJA DER. CON SOPORTE FT125 ELYOM",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 373,
+    "name": "MANIJA DER. CON SOPORTE FT125 SAYTO/TABAMOTO",
+    "price": 12.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 374,
+    "name": "MANIJA DERECHA C/SOPORTE DS125/DS150",
+    "price": 215.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 375,
+    "name": "MANIJA DERECHA SIN SOPORTE FT125",
+    "price": 60.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 376,
+    "name": "MANIJA DERECHA SIN SOPORTE FT150/150Z",
+    "price": 73.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 377,
+    "name": "MANIJA IZQ. C/SOPORTE DS125/DS150",
+    "price": 130.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 378,
+    "name": "MANIJA IZQ. CON SOPORTE FT125 ELYOM/TABAMOTO",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 379,
+    "name": "MANIJA IZQ. CON SOPORTE FT150 PROMOTO",
+    "price": 45.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 380,
+    "name": "MANIJA IZQ. SIN SOPORTE FT150",
+    "price": 75.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 381,
+    "name": "MANIJA IZQ.SIN SOPORTE FT125",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 382,
+    "name": "MANUBRIO AT110/RT110/At110 SPORT",
+    "price": 85.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 383,
+    "name": "MANUBRIO FT125/FT150/FT125TS",
+    "price": 35.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 384,
+    "name": "MEDIA LUNA CORTA FT125 (PIEZA)",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 385,
+    "name": "MEDIA LUNA LARGA FT150/FT125 (PIEZA)",
+    "price": 300.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 386,
+    "name": "MEDIA LUNA PARADOR CENTRAL FT150",
+    "price": 140.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 387,
+    "name": "MEDIDOR DE ACEITE AT110/MOTONETAS",
+    "price": 12.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 388,
+    "name": "MEDIDOR DE ACEITE FT150/FT125/125Z",
+    "price": 12.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 389,
+    "name": "MOLDURA SILVATRIM POR METRO",
+    "price": 12.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 390,
+    "name": "MOTOR DE ARRANQUE (MARCHA) FT125/FT150",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 391,
+    "name": "PAR DE BARRAS FT125",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 392,
+    "name": "PARADOR CENTRAL FT150",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 393,
+    "name": "PARADOR LATERAL DS125/DS150",
+    "price": 355.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 394,
+    "name": "PASTA DE CLOUCH STRADA 70/90/FT110 4 DISCOS",
+    "price": 1000.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 395,
+    "name": "PASTA DE CLOUCH WSTANDARD",
+    "price": 160.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 396,
+    "name": "PASTA DE EMBRAGUE DE CLOUCH RODA",
+    "price": 55.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 397,
+    "name": "PEDAL DE ARRANQUE AT110/STRADA70/90",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 398,
+    "name": "PEDAL DE ARRANQUE CURVO FT125/FT150/RT200",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 399,
+    "name": "PEDAL DE ARRANQUE FT125/ FT150 TABAMOTO/ELYOM",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 400,
+    "name": "PEDAL DE ARRANQUE FT180/RT180/FT200/FT250",
+    "price": 92.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 401,
+    "name": "PEDAL DE ARRANQUE MOTONETAS CURVO",
+    "price": 125.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 402,
+    "name": "PEDAL DE ARRANQUE MOTONETAS NEGRO",
+    "price": 96.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 403,
+    "name": "PEDAL DE CAMBIO 125Z",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 404,
+    "name": "PEDAL DE CAMBIO AT110",
+    "price": 90.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 405,
+    "name": "PEDAL DE CAMBIO FT125/FT150/VENTO MARCA BUONO CAÑON CORTO",
+    "price": 75.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 406,
+    "name": "PEDAL DE CAMBIO FT125/FT150/VENTO MARCA ELYOM",
+    "price": 85.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 407,
+    "name": "PEDAL DE CAMBIO FT125/FT150/VENTO MARCA MOTOKING CAÑON LARGO",
+    "price": 92.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 408,
+    "name": "PEDAL DE FRENOS AT110",
+    "price": 85.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 409,
+    "name": "PEDAL DE FRENOS FT125 RODA",
+    "price": 60.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 410,
+    "name": "PEDAL DE FRENOS FT150",
+    "price": 99.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 411,
+    "name": "PEDAL DE FRENOS FT180/RT180/FT200/FT250",
+    "price": 135.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 412,
+    "name": "PEGATINA DE MARCA ITALIKA (PAR)",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 413,
+    "name": "PEGATINA IMPACTO DE BALA (TIRA DE 4 PIEZA)",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 414,
+    "name": "PEGATINA PARA TANQUE GASOLINA",
+    "price": 160.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 415,
+    "name": "PEGATINA VARIOS MODELOS",
+    "price": 30.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 416,
+    "name": "PENO MOVIL TRASERO FT125/FT150",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 417,
+    "name": "PIPETA DE CABURADOR FT125/FT150 Elyom",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 418,
+    "name": "PIPETA DE CARBURADOR 150Z/150SZ/170Z",
+    "price": 5.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 419,
+    "name": "PIPETA DE CARBURADOR FT180/RT180",
+    "price": 25.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 420,
+    "name": "PISTON COMP. 125Z",
+    "price": 55.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 421,
+    "name": "PISTON COMP. AT110/FT110/RT110 MRCA KIMTEC/RODA",
+    "price": 60.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 422,
+    "name": "PISTON COMP. CS125/DS125/CITY 125",
+    "price": 65.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 423,
+    "name": "PISTON COMP. DS150 MARCA GHIRA",
+    "price": 180.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 424,
+    "name": "PISTON COMP. FT125 MARCA RODA/KIMTEC",
+    "price": 117.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 425,
+    "name": "PISTON COMP. FT125 MARCA WSTANDARD",
+    "price": 147.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 426,
+    "name": "PISTON COMP. FT150  09/150Z PERNO DELGADO KAIZEN",
+    "price": 160.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 427,
+    "name": "PISTON COMP. FT150  09/150Z PERNO DELGADO KIMTEC/SAYTO",
+    "price": 140.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 428,
+    "name": "PISTON COMP. FT150  09/150Z PERNO DELGADO WSTANDARD",
+    "price": 198.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 429,
+    "name": "PISTON COMP. FT150 08 PERNO GRUESO SAYTO",
+    "price": 205.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 430,
+    "name": "PISTON COMP. FT150 08 PERNO GRUESO WSTANDARD",
+    "price": 168.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 431,
+    "name": "PISTON COMP. FT180/RT180",
+    "price": 265.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 432,
+    "name": "PISTON COMP. STRADA 70/90",
+    "price": 165.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 433,
+    "name": "PISTON COMP. WS175",
+    "price": 245.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 434,
+    "name": "PISTON COMPLETO RT200/EX200 SAYTO",
+    "price": 198.0,
+    "cat": "Motor Piston",
+    "stock": 10
+  },
+  {
+    "id": 435,
+    "name": "PLATO DE PRESION FT125 4 TORNILLOS SOLO ELYOM",
+    "price": 140.0,
+    "cat": "Tornilleria",
+    "stock": 10
+  },
+  {
+    "id": 436,
+    "name": "PLATO DE PRESION FT125/FT150 5 TORNILLOS COMPLETO",
+    "price": 197.0,
+    "cat": "Tornilleria",
+    "stock": 10
+  },
+  {
+    "id": 437,
+    "name": "PLATO DE PRESION FT125/FT150/125Z/150Z COMPLETO SAYTO",
+    "price": 198.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 438,
+    "name": "POLEA Y ENGRANE CADENA DE LEVAS AT110",
+    "price": 110.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 439,
+    "name": "PORTA BALATAS AT110",
+    "price": 320.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 440,
+    "name": "PORTA BALATAS FT125",
+    "price": 270.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 441,
+    "name": "PORTA BALATAS FT150",
+    "price": 42.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 442,
+    "name": "PORTA ENGRANE CON BALEROS Y BUJE  FT125/FT150/125Z SAYTO",
+    "price": 193.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 443,
+    "name": "PORTA ENGRANE TRASERO AT110/STRADA 70 Y 90 MARCA SAYTO",
+    "price": 190.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 444,
+    "name": "PORTA ENGRANE TRASERO FT125/FT150/125Z/150Z",
+    "price": 292.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 445,
+    "name": "PORTA FUSIBLE VIDRIO/MUELA",
+    "price": 162.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 446,
+    "name": "POSA PIE TRASERO (PAR) FT125/FT150",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 447,
+    "name": "PUÑOS COLOR VERDE WINMEX",
+    "price": 110.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 448,
+    "name": "PUÑOS DE COLORES",
+    "price": 23.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 449,
+    "name": "PUÑOS PAR AMOTONETAS",
+    "price": 65.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 450,
+    "name": "PUÑOS UNIVERSAL CON TUBO ELYOM",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 451,
+    "name": "PUÑOS UNIVERSAL CON TUBO SAYTO",
+    "price": 102.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 452,
+    "name": "RED PARA TANQUE DE GASOLINA",
+    "price": 60.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 453,
+    "name": "REELEVADOR DEARRANQUE (SELENOIDE) AT110/FT125/FT150/FT180/RT180 ALESSIA",
+    "price": 32.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 454,
+    "name": "REGULADOR DE CORRIENTE 4 PUNTAS AT110",
+    "price": 40.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 455,
+    "name": "REGULADOR DE CORRIENTE 4 PUNTAS FT125/FT150 SAYTO/TABAMOTO",
+    "price": 70.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 456,
+    "name": "REGULADOR DE CORRIENTE 5 PUNTAS FT125/FT150/DINAMO",
+    "price": 99.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 457,
+    "name": "REGULADOR DE MOTONETAS MARCA PAG",
+    "price": 75.0,
+    "cat": "Electrico",
+    "stock": 10
+  },
+  {
+    "id": 458,
+    "name": "REPUESTO DECARBURADOR AT110 ITALIKA",
+    "price": 120.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 459,
+    "name": "REPUESTO DECARBURADOR CON FLOTADOR /FT150",
+    "price": 125.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 460,
+    "name": "REPUESTO DECARBURADOR CON FLOTADOR FT125/FT150",
+    "price": 120.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 461,
+    "name": "REPUESTO DECARBURADOR CON FLOTADOR PARA MOTONETAS",
+    "price": 69.0,
+    "cat": "Carburacion Filtros",
+    "stock": 10
+  },
+  {
+    "id": 462,
+    "name": "RESORTE DE PEDAL DE FRENO AT110",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 463,
+    "name": "RESORTE DE PEDAL DE FRENO FT125/FT150",
+    "price": 72.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 464,
+    "name": "RESORTE INTERRUPTOR DE LUZ",
+    "price": 100.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 465,
+    "name": "RESORTE PARADOR  LATERAL FT125/FT150",
+    "price": 20.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 466,
+    "name": "RESORTE PARADOR CENTRAL FT125/FT150",
+    "price": 10.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 467,
+    "name": "RETEN  PARA BARRA DE SUSPENSION DELANTERA AT110",
+    "price": 10.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 468,
+    "name": "RETEN PARA BARRA DE SUSPENSION DELANTERA FT125/KURAZAI/VENTO",
+    "price": 15.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 469,
+    "name": "RETEN PARA BARRA DE SUSPENSION DELANTERA FT150/FT180/FT250/FT200",
+    "price": 22.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 470,
+    "name": "RETENES DE MOTOR AT110",
+    "price": 25.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 471,
+    "name": "RETENES DE MOTOR FT12/FT150 SAYTO",
+    "price": 30.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 472,
+    "name": "RETENES DE MOTOR FT125/FT150",
+    "price": 30.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 473,
+    "name": "RETENES DE MOTOR PARA MOTONETAS",
+    "price": 40.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 474,
+    "name": "RETENES DE MOTOR STRAD 70/90",
+    "price": 34.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 475,
+    "name": "RIN TRASERO FT125 SAYTO",
+    "price": 55.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 476,
+    "name": "RODILLOS DE AVANCE MOTONETAS",
+    "price": 36.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 477,
+    "name": "SALPICADERA DELANTERA AT110 ROJA",
+    "price": 43.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 478,
+    "name": "SALPICADERA DELANTERA AZUL FT150",
+    "price": 1100.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 479,
+    "name": "SALPICADERA DELANTERA FT125 ROJA",
+    "price": 51.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 480,
+    "name": "SALPICADERA DELANTERA FT125GRIS/CAFE CLASICA",
+    "price": 205.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 481,
+    "name": "SEGURO DE ENGRANE DELANTERO AT110",
+    "price": 210.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 482,
+    "name": "SEGURO DE ENGRANE DELANTERO FT125/FT150",
+    "price": 210.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 483,
+    "name": "SEGURO DE ENGRANE TRASERO FT125/FT150",
+    "price": 210.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 484,
+    "name": "SELLO DE VALVULA  AT110/ MOTONETAS",
+    "price": 15.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 485,
+    "name": "SELLO DE VALVULA  FT125/FT150",
+    "price": 15.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 486,
+    "name": "SENSOR DE VELOCIDAD FT125/FT150/RT200",
+    "price": 20.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 487,
+    "name": "SENSOR DE VELOCIDADES FT180/RT180/FT200/FT250/250Z",
+    "price": 18.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 488,
+    "name": "SEPARADOR DE BALEROS FT125",
+    "price": 20.0,
+    "cat": "Baleros Retenes",
+    "stock": 10
+  },
+  {
+    "id": 489,
+    "name": "SILICON NEGRO  50gr. ALTA TEMPERATURA AMAR",
+    "price": 45.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 490,
+    "name": "SILICON NEGRO  70gr. ALTA TEMPERATURA AXPRO",
+    "price": 70.0,
+    "cat": "Lubricantes",
+    "stock": 10
+  },
+  {
+    "id": 491,
+    "name": "SWITCH COMP. AT110",
+    "price": 20.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 492,
+    "name": "SWITCH DE ENCENDIDO  DE PRESION COMPLETO MARCA ZARCO",
+    "price": 45.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 493,
+    "name": "SWITCH DE ENCENDIDO  DE PRESION ELYOM/SAYTO",
+    "price": 53.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 494,
+    "name": "SWITCH DE ENCENDIDO DE TORNILLO ELYOM",
+    "price": 140.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 495,
+    "name": "SWITCH DE ENCENDIDO DE TORNILLO PROMOTO",
+    "price": 210.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 496,
+    "name": "SWITCH DE ENCENDIDO FT150",
+    "price": 72.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 497,
+    "name": "TABLERO DE VELOCIMETRO FT125 SAYTO",
+    "price": 60.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 498,
+    "name": "TABLERO DE VELOCIMETRO FT150 BOST",
+    "price": 65.0,
+    "cat": "Controles",
+    "stock": 10
+  },
+  {
+    "id": 499,
+    "name": "TAMBOR FT125/FDS150/DS125/125Z SAYTO",
+    "price": 130.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 500,
+    "name": "TAPAS LATERALES FT125 SPORT ROJO/NEGRO",
+    "price": 540.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 501,
+    "name": "TAPAS LATERALES FT125CLASICA GRIS/CAFE",
+    "price": 495.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 502,
+    "name": "TAPAS PARA TORNILLOS DE MOTO COLOR AZUL/ROJO/MORADO",
+    "price": 70.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 503,
+    "name": "TAPON DE GASOLINA FT125",
+    "price": 256.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 504,
+    "name": "TAPON DE GASOLINA FT150/FT180/RT180",
+    "price": 285.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 505,
+    "name": "TAPON DE VALVULA RIN MOTO/BICI/AUTO COLOR ROJO (PAR)",
+    "price": 140.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 506,
+    "name": "TAZA DE DIRECCION AT110",
+    "price": 90.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 507,
+    "name": "TAZA DE DIRECCION FT125",
+    "price": 140.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 508,
+    "name": "TAZA DE DIRECCION FT150/FORZA 150",
+    "price": 50.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 509,
+    "name": "TAZA DE DIRECCION FT180/RT180",
+    "price": 115.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 510,
+    "name": "TAZA DE DIRECCION MOTONETAS DS125/CS125/CITY125",
+    "price": 65.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 511,
+    "name": "TAZA DE DIRECCION MOTONETAS DS150",
+    "price": 83.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 512,
+    "name": "TENSOR DE CADENA  DINAMO",
+    "price": 120.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 513,
+    "name": "TENSOR DE CADENA AT110/Rt110",
+    "price": 98.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 514,
+    "name": "TENSOR DE CADENA DE LEVAS AT110",
+    "price": 130.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 515,
+    "name": "TENSOR DE CADENA FT 125",
+    "price": 45.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 516,
+    "name": "TENSOR DE CADENA FT150",
+    "price": 25.0,
+    "cat": "Motor Cadena",
+    "stock": 10
+  },
+  {
+    "id": 517,
+    "name": "TENSOR DE LEVAS MOTONETAS",
+    "price": 53.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 518,
+    "name": "TERMINAL DE OJILLO COBRE",
+    "price": 25.0,
+    "cat": "Conectores",
+    "stock": 10
+  },
+  {
+    "id": 519,
+    "name": "TERMINAL ENCHUNFE COLOR AZUL",
+    "price": 63.0,
+    "cat": "Conectores",
+    "stock": 10
+  },
+  {
+    "id": 520,
+    "name": "TERMINAL OJILLO PARA BATERIA AMARILLO",
+    "price": 58.0,
+    "cat": "Baterias",
+    "stock": 10
+  },
+  {
+    "id": 521,
+    "name": "TIRA LED NEON COLORES",
+    "price": 7.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 522,
+    "name": "TIRAS LED 30CM AZUL/ROJO/VERDE/MORADO (PIEZA)",
+    "price": 6.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 523,
+    "name": "TORILLOS DE BARRA POSAPIE",
+    "price": 7.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 524,
+    "name": "TORILLOS DE ESCAPE",
+    "price": 120.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 525,
+    "name": "TORNILLOS DE PARRILLA TRASERA  CORTO (PIEZA)",
+    "price": 50.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 526,
+    "name": "TORNILLOS DE PARRILLA TRASERA  LARGOS",
+    "price": 6.0,
+    "cat": "Carroceria",
+    "stock": 10
+  },
+  {
+    "id": 527,
+    "name": "TORNILO CON SEGURO BARRA POSA PIE (PIEZA)",
+    "price": 5.0,
+    "cat": "Manubrio Direccion",
+    "stock": 10
+  },
+  {
+    "id": 528,
+    "name": "TUERCA MILIMETRICA DE SEGURIDAD",
+    "price": 15.0,
+    "cat": "Tornilleria",
+    "stock": 10
+  },
+  {
+    "id": 529,
+    "name": "VALVULA DE ADMISION 125Z",
+    "price": 18.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 530,
+    "name": "VALVULA DE ADMISION 250Z SAYTO",
+    "price": 12.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 531,
+    "name": "VALVULA DE ADMISION AT110",
+    "price": 10.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 532,
+    "name": "VALVULA DE ADMISION CS125/DS125/VITALIA 125 MARCA ITALIKA",
+    "price": 70.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 533,
+    "name": "VALVULA DE ADMISION DS150 ITALIKA",
+    "price": 134.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 534,
+    "name": "VALVULA DE ADMISION DS150/TANOSHI 150 SAYTO/ARCH",
+    "price": 50.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 535,
+    "name": "VALVULA DE ADMISION EX200/FT200/DM200/TX200/TC200/FIERA 200 SAYTO",
+    "price": 85.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 536,
+    "name": "VALVULA DE ADMISION FT125 KIMTEC",
+    "price": 90.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 537,
+    "name": "VALVULA DE ADMISION FT125 SAYTO",
+    "price": 55.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 538,
+    "name": "VALVULA DE ADMISION FT125/125Z/DT125 WSTANDAR",
+    "price": 68.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 539,
+    "name": "VALVULA DE ADMISION FT125/125Z/DT125FT125TS ITALIKA",
+    "price": 82.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 540,
+    "name": "VALVULA DE ADMISION FT150/RT180  SAYTO",
+    "price": 50.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 541,
+    "name": "VALVULA DE ADMISION FT150/RT180/150Z HR",
+    "price": 145.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 542,
+    "name": "VALVULA DE ADMISION FT150/RT180/150Z ITALIKA",
+    "price": 90.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 543,
+    "name": "VALVULA PARA LLANTA DE MOTO DE TRABAJO",
+    "price": 55.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 544,
+    "name": "VALVULA PARA LLANTA DE MOTONETA",
+    "price": 63.0,
+    "cat": "Llantas Rines",
+    "stock": 10
+  },
+  {
+    "id": 545,
+    "name": "VALVULA PARA TANQUE DE GASOLINA 3 PASES DS150/DS125/CS125 TABAMOTO/SAYTO",
+    "price": 90.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 546,
+    "name": "VALVULA PARA TANQUE DE GASOLINA DS150 TRES PASES  TABAMOTO",
+    "price": 40.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 547,
+    "name": "VALVULA PARA TANQUE DE GASOLINA FT125/FT150 MARCA ELYOM",
+    "price": 25.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 548,
+    "name": "VALVULA PARA TANQUE DE GASOLINA FT125/FT150 MARCA TABAMOTO",
+    "price": 65.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 549,
+    "name": "VALVULA PARA TANQUE DE GASOLINA STRADA 70/90",
+    "price": 60.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 550,
+    "name": "VALVULA PARA TANQUE DE GASOLINA VS90/CS125/WS150 DOS PASES MASUDA",
+    "price": 67.0,
+    "cat": "Tanque Combustible",
+    "stock": 10
+  },
+  {
+    "id": 551,
+    "name": "VARILLA DE EMPUJE FT125/FT150 ALESSIA",
+    "price": 55.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 552,
+    "name": "VARILLA DE EMPUJE FT125/FT150 RODA",
+    "price": 65.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 553,
+    "name": "VARILLA DE EMPUJE FT180/RT180 RT200 RODA",
+    "price": 65.0,
+    "cat": "Motor Valvulas",
+    "stock": 10
+  },
+  {
+    "id": 554,
+    "name": "VARILLA DE FRENO TRASERO AT110",
+    "price": 55.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 555,
+    "name": "VARILLA DE TRENO TRASERO 150Z",
+    "price": 60.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 556,
+    "name": "VARILLA DE TRENO TRASERO FT125/125Z/DT125 CLASICA",
+    "price": 65.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 557,
+    "name": "VARILLA DE TRENO TRASERO FT150",
+    "price": 40.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 558,
+    "name": "VARILLA DE TRENO TRASERO FT180",
+    "price": 52.0,
+    "cat": "Frenos",
+    "stock": 10
+  },
+  {
+    "id": 559,
+    "name": "VULVO DE ENCENDIDO MOTONETAS",
+    "price": 25.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 560,
+    "name": "VULVO DE STOP FT125/FT150/FT180",
+    "price": 32.0,
+    "cat": "Otros",
+    "stock": 10
+  },
+  {
+    "id": 561,
+    "name": "YUGO FT150 08/09",
+    "price": 40.0,
+    "cat": "Transmision",
+    "stock": 10
+  },
+  {
+    "id": 562,
+    "name": "ZOQUE / CONECTOR H4",
+    "price": 15.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 563,
+    "name": "ZOQUE 3 PATAS FT125/FT150",
+    "price": 23.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 564,
+    "name": "ZOQUE AT110",
+    "price": 300.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 565,
+    "name": "ZOQUE DE FARO DELANTERO FT150/FORZA 150",
+    "price": 25.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 566,
+    "name": "ZOQUE DIRECCIONAL DE UN POLO AT110",
+    "price": 29.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 567,
+    "name": "ZOQUE FOCO DE PELLIZCO Y DIRECCIONALES",
+    "price": 30.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 568,
+    "name": "ZOQUE STOP DOS POLOS",
+    "price": 58.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  },
+  {
+    "id": 569,
+    "name": "ZOQUE STOP DOS POLOS TRES CABLES",
+    "price": 20.0,
+    "cat": "Iluminacion",
+    "stock": 10
+  }
+]
