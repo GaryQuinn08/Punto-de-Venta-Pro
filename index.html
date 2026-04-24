@@ -116,11 +116,35 @@
   <div class="page scroll-page" id="page-inv">
     <div class="page-header">
       <div class="page-title">📦 Inventario</div>
+      <div class="inv-actions">
+        <button class="btn-inv-action btn-export" onclick="exportExcel()">
+          ⬇️ Exportar Excel
+        </button>
+        <button class="btn-inv-action btn-import" onclick="importExcel()">
+          ⬆️ Importar Excel
+        </button>
+      </div>
     </div>
+    <!-- Hidden file input for import -->
+    <input type="file" id="xlsxImportInput" accept=".xlsx,.xls"
+           style="display:none" onchange="handleImportFile(event)">
     <div class="inv-toolbar">
       <input type="text" id="invSearch" placeholder="Buscar producto o categoría…" oninput="renderInventory()">
       <span class="inv-count" id="invCount"></span>
     </div>
+    <div class="inv-actions" style="margin-bottom:10px;">
+      <button class="btn-excel-export" onclick="exportExcel()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Exportar Excel
+      </button>
+      <button class="btn-excel-import" onclick="importExcel()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        Importar Excel
+      </button>
+      <!-- Hidden file input for import -->
+      <input type="file" id="xlsxImportInput" accept=".xlsx,.xls" style="display:none" onchange="handleImportFile(event)">
+    </div>
+    <div class="import-result" id="importResult"></div>
     <div class="table-wrap">
       <table class="inv-table">
         <thead>
